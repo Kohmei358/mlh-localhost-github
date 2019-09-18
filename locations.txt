@@ -20,11 +20,7 @@ Paris, France
 
 Montreal, Canada
 
-Goiania, Brazil
 
-Vienna, Austria
-
-Melbourne, Australia
 
 Osaka, Japan
 
@@ -135,4 +131,5 @@ San Antonio, Texas
 
 Chattanooga, Tennessee
 
+New Feature!
 
